@@ -1,0 +1,9 @@
+Similarity: 1.00
+Similarity: 0.94
+Similarity: 0.98
+Similarity: 0.98
+Similarity: 0.98
+Similarity: 0.98
+Similarity: 0.92
+Similarity: 1.00
+Similarity: 0.95
